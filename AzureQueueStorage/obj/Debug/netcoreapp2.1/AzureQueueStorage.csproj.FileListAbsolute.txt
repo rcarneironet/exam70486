@@ -1,0 +1,11 @@
+C:\Users\OfficeWS\source\repos\70486AspNetMvc\AspNetMvc70486\AzureQueueStorage\bin\Debug\netcoreapp2.1\AzureQueueStorage.deps.json
+C:\Users\OfficeWS\source\repos\70486AspNetMvc\AspNetMvc70486\AzureQueueStorage\bin\Debug\netcoreapp2.1\AzureQueueStorage.runtimeconfig.json
+C:\Users\OfficeWS\source\repos\70486AspNetMvc\AspNetMvc70486\AzureQueueStorage\bin\Debug\netcoreapp2.1\AzureQueueStorage.runtimeconfig.dev.json
+C:\Users\OfficeWS\source\repos\70486AspNetMvc\AspNetMvc70486\AzureQueueStorage\bin\Debug\netcoreapp2.1\AzureQueueStorage.dll
+C:\Users\OfficeWS\source\repos\70486AspNetMvc\AspNetMvc70486\AzureQueueStorage\obj\Debug\netcoreapp2.1\AzureQueueStorage.csprojAssemblyReference.cache
+C:\Users\OfficeWS\source\repos\70486AspNetMvc\AspNetMvc70486\AzureQueueStorage\obj\Debug\netcoreapp2.1\AzureQueueStorage.csproj.CoreCompileInputs.cache
+C:\Users\OfficeWS\source\repos\70486AspNetMvc\AspNetMvc70486\AzureQueueStorage\obj\Debug\netcoreapp2.1\AzureQueueStorage.AssemblyInfoInputs.cache
+C:\Users\OfficeWS\source\repos\70486AspNetMvc\AspNetMvc70486\AzureQueueStorage\obj\Debug\netcoreapp2.1\AzureQueueStorage.AssemblyInfo.cs
+C:\Users\OfficeWS\source\repos\70486AspNetMvc\AspNetMvc70486\AzureQueueStorage\bin\Debug\netcoreapp2.1\AzureQueueStorage.pdb
+C:\Users\OfficeWS\source\repos\70486AspNetMvc\AspNetMvc70486\AzureQueueStorage\obj\Debug\netcoreapp2.1\AzureQueueStorage.dll
+C:\Users\OfficeWS\source\repos\70486AspNetMvc\AspNetMvc70486\AzureQueueStorage\obj\Debug\netcoreapp2.1\AzureQueueStorage.pdb
