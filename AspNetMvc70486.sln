@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2041
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureQueueStorage", "AzureQueueStorage\AzureQueueStorage.csproj", "{BEAFABF8-C7FD-4945-9E7B-5B31E70EE35B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureWebJob", "AzureWebJob\AzureWebJob.csproj", "{75C0454F-1506-4929-B441-368074501124}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFunctions", "AzureFunctions\AzureFunctions.csproj", "{8988343E-66AA-47E1-828D-EE83B85D50AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLWebStorage", "HTMLWebStorage\HTMLWebStorage.csproj", "{E2D1295C-7587-4005-92BC-3E374BDEC447}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{75C0454F-1506-4929-B441-368074501124}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75C0454F-1506-4929-B441-368074501124}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75C0454F-1506-4929-B441-368074501124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8988343E-66AA-47E1-828D-EE83B85D50AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8988343E-66AA-47E1-828D-EE83B85D50AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8988343E-66AA-47E1-828D-EE83B85D50AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8988343E-66AA-47E1-828D-EE83B85D50AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2D1295C-7587-4005-92BC-3E374BDEC447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D1295C-7587-4005-92BC-3E374BDEC447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D1295C-7587-4005-92BC-3E374BDEC447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D1295C-7587-4005-92BC-3E374BDEC447}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
